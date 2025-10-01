@@ -1,0 +1,5 @@
+   Fighter   Length(m)  MaxSpeed(km/h) Endurance(km)
+1  Su-30     24000      2125           3000
+2  J-20      25000      3430           5500
+3  F-35      31800      1710           no
+4  MiG-29    14900      no             2100
